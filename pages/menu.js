@@ -11,7 +11,7 @@ function Menu() {
 		<div className={styles.navContainer}>
 			<div>
 				<Link href="/">
-					<Image src="/facebook-icon.png" width="30" height="30"></Image>
+					<Image src="/logo.png" width="30" height="30"></Image>
 				</Link>
 				<input type="text" placeholder="Search Facebook" />
 			</div>
