@@ -1,5 +1,7 @@
 import React from 'react';
 import styles from '../../styles/Sidebar.module.css';
+import GamingPage from '../gaming/gamingPage';
+
 import {
 	FaGear,
 	FaGamepad,
